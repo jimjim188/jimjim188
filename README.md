@@ -3,7 +3,7 @@
 # 🌟 Jimmy Clodine-Florent 🌟  
 *Global Sales & Marketing Director | Cybersecurity & Programming Innovator*
 
-![Profile Banner](./Banner-for-LinkedInProfile.png) <!-- Make sure to upload this file to your GitHub repository -->
+![GitHub Banner](https://github.com/jimjim188/jimjim188/raw/main/banner%20for%20github.png)
 
 ## 🧩 About Me  
 As a **Global Sales and Marketing Director**, I bring years of expertise in *traditional* and *digital marketing* to the table. My journey has recently expanded to the fascinating world of **cybersecurity** and **programming**. With a passion for innovation and lifelong learning, I am currently building expertise in **Python** and **Java**, leveraging my skills to create a future at the intersection of marketing and technology.
